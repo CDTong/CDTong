@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there.I am an Undergraduate student at Shanghai University. Interested in **Blockchain**. I plan to pursue a master's degree at Fall 2023.
 
 <!--
 **CDTong/CDTong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
